@@ -1,0 +1,117 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+.titulo{
+    background:-webkit-linear-gradient(top,lightslategray, lightgray);
+    text-align: center;
+    padding:15px;
+    color: black;
+    box-shadow: blue 5px 5px 10px;
+    text-shadow: lightgray 2px 2px 3px; 
+}
+nav {
+    background-color: lightslategray;
+    text-align: center;
+    font-size: 150%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header {
+    text-align: center;
+}
+.ulPortada,
+ul {
+    display: inline;
+}
+li.liNav {
+    display: inline;
+    padding: 0 1em 0 0;
+    /*margin: 8%;*/
+}
+.liNav,
+a:link,
+a:visited {
+    background-color: lightslategray;
+    color: black;
+    padding-top: 8px;
+    padding-bottom: 8px; 
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+.aPortada,
+a:hover,
+a:active {
+    background-color: lightsteelblue;
+    color: black;
+}
+.sectionPortada{
+    background-attachment: fixed;
+}
+.divPortada{
+    background-color: whitesmoke;
+    opacity: 0.95;
+    /*width: 1500px;*/
+    height: 806px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.taller-1{
+    padding-top: 40px;
+    text-align: center;
+    font-size: 220%;
+}
+.sitio-web{
+    padding-top: 10px;
+    text-align: center;
+    font-size: 150%; 
+}
+.imagenTitulo{
+    margin-top: 3%;
+    text-align: center;
+}
+.tituloTaller{
+    margin-top: 3%;
+    text-align: center;
+    font-size: 150;
+}
+.descTaller{
+    margin-top: 1%;
+    text-align: center;
+    font-size: 150;
+}
+.tallerista{
+    margin-top: 1%;
+    text-align: center;
+    font-size: 150;  
+}
+.footerPortada {
+    clear: both;
+    padding-top: 8px;
+    text-align: center;
+    background-color: lightslategray;
+}
+.texto-len-descrip{
+    margin-left: 25px;
+    margin-right: 25px;
+    text-align: center;
+}
+.comparacion{
+    margin-top: 8%;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+td{
+    border: 1px solid black;
+    /*text-align: center;*/
+}
+.referencias{
+    margin-top: 14%;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+
+
+
+
